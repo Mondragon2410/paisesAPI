@@ -16,6 +16,5 @@ export class PaisInputComponent {
 
   buscar(){
     this.onEnter.emit(this.termino);
-
   }
 }
